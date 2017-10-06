@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Национални Паметници</string>
+  <string name="lblConnection">Връзка: </string>
+  <string name="lblLocation">Кординати: </string>
+  <string name="lblAddress">Адрес: </string>
+  <string name="lblCity">Град: </string>
+  <string name="lblRange">Разстояние: </string>
+  <string name="lblName">Име: </string>
+  <string name="lblType">Вид: </string>
+  <string name="lblDescription">Описание: </string>
+  <string name="btnInfo">Инфо</string>
+  <string name="btngoto">Отиди</string>
+  <string name="btnMoreInfo">Повече Инфо</string>
+  <string name="btnBack">Назад</string>
+  <string name="lblloading">Зареждане...</string>
+</resources>
