@@ -349,7 +349,7 @@ namespace NationalMonuments
             }
             else
             {
-                txtAddress.Text = "ул. Хаджи Димитър 4";
+                txtAddress.Text = " ";
             }
         }
 
