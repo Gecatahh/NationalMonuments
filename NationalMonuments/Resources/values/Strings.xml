@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">NationalMonuments</string>
+  <string name="lblConnection">Connection: </string>
+  <string name="lblLocation">Location: </string>
+  <string name="lblAddress">Address: </string>
+  <string name="lblCity">City: </string>
+  <string name="lblRange">Range: </string>
+  <string name="lblName">Name: </string>
+  <string name="lblType">Type: </string>
+  <string name="lblDescription">Description: </string>
+  <string name="btnInfo">Info</string>
+  <string name="btngoto">Go To</string>
+  <string name="btnMoreInfo">More Info</string>
+  <string name="btnBack">Back</string>
+  <string name="lblloading">Loading...</string>
+</resources>
